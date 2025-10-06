@@ -1,0 +1,17 @@
+id,supplier_code,barcode,title,price,link,image_link,jde_brands_name,status
+UC001,SUP123,8690000123456,Samsung Galaxy S23 Ultra 256GB,45999.99,https://www.unioncoop.ae/products/samsung-galaxy-s23-ultra,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Samsung,Active
+UC002,SUP123,8690000123457,Apple iPhone 14 Pro 128GB,52999.00,https://www.unioncoop.ae/products/iphone-14-pro,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Apple,Active
+UC003,SUP456,8690000234567,Sony WH-1000XM5 Wireless Headphones,1299.50,https://www.unioncoop.ae/products/sony-wh1000xm5,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Sony,Active
+UC004,SUP789,8690000345678,LG OLED 55 inch Smart TV,8999.00,https://www.unioncoop.ae/products/lg-oled-55,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,LG,Active
+UC005,SUP456,8690000456789,Canon EOS R6 Mark II Camera Body,12499.99,https://www.unioncoop.ae/products/canon-eos-r6-mkii,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Canon,Active
+UC006,SUP123,8690000567890,Samsung 32 inch 4K Monitor,1899.00,https://www.unioncoop.ae/products/samsung-monitor-32,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Samsung,Deleted
+UC007,SUP789,8690000678901,Dell XPS 15 Laptop i7 16GB RAM,6999.50,https://www.unioncoop.ae/products/dell-xps-15,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Dell,Active
+UC008,SUP456,8690000789012,Dyson V15 Detect Vacuum Cleaner,2799.00,https://www.unioncoop.ae/products/dyson-v15-detect,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Dyson,Active
+UC009,SUP123,8690000890123,Apple AirPods Pro 2nd Gen,899.99,https://www.unioncoop.ae/products/airpods-pro-2,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Apple,Active
+UC010,SUP789,8690000901234,Nintendo Switch OLED White,1599.00,https://www.unioncoop.ae/products/nintendo-switch-oled,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Nintendo,Active
+UC011,SUP456,8690001012345,Bose QuietComfort 45 Headphones,1499.00,https://www.unioncoop.ae/products/bose-qc45,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Bose,Active
+UC012,SUP123,8690001123456,HP LaserJet Pro M404dn Printer,1299.99,https://www.unioncoop.ae/products/hp-laserjet-m404dn,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,HP,Active
+UC013,SUP789,8690001234567,GoPro HERO11 Black Action Camera,1899.50,https://www.unioncoop.ae/products/gopro-hero11,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,GoPro,Deleted
+UC014,SUP456,8690001345678,Logitech MX Master 3S Mouse,449.00,https://www.unioncoop.ae/products/logitech-mx-master-3s,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Logitech,Active
+UC015,SUP123,8690001456789,iPad Air 5th Gen 64GB WiFi,2499.00,https://www.unioncoop.ae/products/ipad-air-5th-gen,https://corporate.unioncoop.ae/wp-content/themes/ucs/images/logo-top.png,Apple,Active
+
